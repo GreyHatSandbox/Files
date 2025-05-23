@@ -1,3 +1,5 @@
+**Go to a empty tab, open console commands, go to console, paste in the code, and enter. USE AT YOUR OWN RISK**
+
 # TabOpener3 – Browser Tab Experiment
 
 This script opens a random site in a new tab every 3 seconds.
