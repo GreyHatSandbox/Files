@@ -23,3 +23,4 @@ function openRandomWebsite() {
 const intervalId = setInterval(openRandomWebsite, 3000);
 
 // To stop it later, you can call clearInterval(intervalId);
+Delete tabopener3.js (moved to tabopener3/ folder)
